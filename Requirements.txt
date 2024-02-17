@@ -1,5 +1,0 @@
-Streamlit
-Pandas
-Numpy
-Matplotlib
-Streamlit Option-Menu
